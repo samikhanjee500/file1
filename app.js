@@ -14,15 +14,6 @@ console.log("----------------------")
 console.log(itemsArray[0].price * itemsArray[0].quantity + itemsArray[1].price * itemsArray[1].quantity + itemsArray[2].price * itemsArray[2].quantity +itemsArray[3].price * itemsArray[3].quantity )
 
 
-// let test = {
-//     firstName: "SamiKhanJee",
-//     email: "@gmail.com",
-//     password: "XYZ",
-//     age: "20",
-//     gender: "male",
-//     city: "Karachi",
-//     country: "Pakistan"
-// }
 
 // cons
 
